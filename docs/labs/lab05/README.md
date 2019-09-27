@@ -127,7 +127,9 @@ You can customize the look and feel of the entire Developer Portal to match your
 *Congratulations!* You have successfuly customized your Developer Portal and completed a Sign Up process.
 
 Test the API
+
 https://url-staging/locations?user_key=YOUR-KEY
+
 https://url-prod/locations?user_key=YOUR-KEY
 
 
