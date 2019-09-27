@@ -51,16 +51,4 @@ We recommend you to begin your journey with the first lab [API Design - Create a
 
 If you feel comfortable, you can setup your own environment to host the software required in the labs. Follow the [install instructions](docs/install.md#installation) to install and configure the environment.
 
-### FAQ
 
-Having any trouble while doing the labs? Check this [troubleshooting guide](docs/troubleshooting.md#troubleshooting) to check for answers for most common problems.
-
-### Support & Ownership
-
-GitHub Repo: [https://github.com/hguerrero/3scale-api-workshop](https://github.com/hguerrero/3scale-api-workshop)
-
-Feel free to ask [Hugo Guerrero](mailto:hguerrero@redhat.com) if you need some support when there are any questions left or if you need some support.
-
-### Contributing
-
-We welcome all forms of contribution (content, issues/bugs, feedback). Please see the [Contribution Guidelines](docs/contributing.md#guides-for-contributing) for ways to help
