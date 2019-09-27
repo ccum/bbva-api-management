@@ -153,8 +153,6 @@ The order in which the policies are executed, known as the “policy chain”, c
 
 1. Scroll back to the top of the page. Fill in the information for accessing your API:
 
-    ![07-baseurl-configuration.png](images/07-baseurl-configuration.png)
-
 1. Scroll down to the **API Test GET request**.
 
 1. Type in the textbox:
