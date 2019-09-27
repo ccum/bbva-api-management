@@ -4,7 +4,6 @@
 
 ### Take control of your APIs
 
-* Duration: 15 mins
 * Audience: API Owners, Product Managers, Developers, Architects
 
 ## Overview
@@ -15,46 +14,6 @@ Once you have APIs deployed in your environment, it becomes critically important
 
 Red Hat provides one the leading API Management tools which provide management services. The 3scale API Management solution enables you to quickly and easy protect and manage your APIs.
 
-### Skipping The Lab
-
-If you are planning to follow to the next lab, there is an already running API proxy for the Location API Service in this endpoint:
-
-```bash
-https://location-service-api.amp.apps.GUID.openshiftworkshop.com
-```
-
-### Environment
-
-**URLs:**
-
-Check with your instruction the *GUID* number of your current workshop environment. Replace the actual number on all the URLs where you find **GUID**.
-
-Example in case of *GUID* = **1234**:
-
-```bash
-https://master.GUID.openshiftworkshop.com
-```
-
-becomes =>
-
-```bash
-https://master.1234.openshiftworkshop.com
-```
-
-**Credentials:**
-
-Your username is your asigned user number. For example, if you are assigned user number **1**, your username is: 
-
-```bash
-user1
-```
-
-The password to login is always the same:
-
-```bash
-openshift
-```
-
 ## Lab Instructions
 
 ### Step 1: Define your API Proxy
@@ -64,14 +23,8 @@ Your 3scale Admin Portal provides access to a number of configuration features.
 1. Open a browser window and navigate to:
 
     ```bash
-    https://userX-admin.apps.GUID.openshiftworkshop.com/
+  https://www.3scale.net/signup
     ```
-
-    *Remember to replace the GUID with your [environment](#environment) value and your user number.*
-
-1. Accept the self-signed certificate if you haven't.
-
-    ![selfsigned-cert](images/00-selfsigned-cert.png "Self-Signed Cert")
 
 1. Log into 3scale using your designated [user and password](#environment). Click on **Sign In**.
 
