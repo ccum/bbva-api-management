@@ -22,9 +22,8 @@ Your 3scale Admin Portal provides access to a number of configuration features.
 
 1. Open a browser window and navigate to:
 
-    ```bash
   https://www.3scale.net/signup
-    ```
+
 
 1. Log into 3scale using your designated [user and password](#environment). Click on **Sign In**.
 
