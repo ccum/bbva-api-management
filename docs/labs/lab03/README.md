@@ -153,16 +153,6 @@ The order in which the policies are executed, known as the “policy chain”, c
 
 1. Scroll back to the top of the page. Fill in the information for accessing your API:
 
-    * Private Base URL: **http://location-service.userX.svc:8080**
-
-    * Staging Public Base URL: **https://location-userX-api-staging.amp.apps.GUID.openshiftworkshop.com:443**
-
-    * Production Public Base URL: **https://location-userX-api.amp.apps.GUID.openshiftworkshop.com:443**
-
-    *Remember to replace the GUID with your [environment](#environment) value*.
-
-    *We are using the internal API service, as we are deploying our services inside the same OpenShift cluster*.
-
     ![07-baseurl-configuration.png](images/07-baseurl-configuration.png)
 
 1. Scroll down to the **API Test GET request**.
