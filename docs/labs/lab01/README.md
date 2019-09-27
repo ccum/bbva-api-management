@@ -23,36 +23,6 @@ If you are planning to skip this lab and follow the next one, here is a [link](h
 
 ### Environment
 
-**URLs:**
-
-Check with your instruction the *GUID* number of your current workshop environment. Replace the actual number on all the URLs where you find **GUID**. 
-
-Example in case of *GUID* = **1234**: 
-
-```bash
-https://master.GUID.openshiftworkshop.com
-```
-
-becomes =>
-
-```bash
-https://master.1234.openshiftworkshop.com
-```
-
-**Credentials:**
-
-Your username is your asigned user number. For example, if you are assigned user number **1**, your username is: 
-
-```bash
-user1
-```
-
-The password to login is always the same:
-
-```bash
-openshift
-```
-
 ## Lab Instructions
 
 ### Step 1: Creating APIs with Apicurio Studio
@@ -60,18 +30,8 @@ openshift
 1. Open a browser window and navigate to:
 
     ```bash
-    http://apicurio-studio.apps.GUID.openshiftworkshop.com/
+   https://www.apicur.io/
     ```
-
-1. Accept the self-signed certificate if you haven't: 
-
-    1. If using Google Chrome click the **ADVANCED** link.
-
-      ![selfsigned-cert](images/00-selfsigned-cert.png "Self-Signed Cert")
-
-    1. Then click the **Proceed to..** link to accept the certificate and add the exception.
-
-      ![00-selfsigned-cert-accept](images/00-selfsigned-cert-accept.png  "Self-Signed Cert Proceed")
 
 1. Log in using your designated [user and password](#environment).
 
