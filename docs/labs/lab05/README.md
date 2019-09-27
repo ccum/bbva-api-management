@@ -1,10 +1,9 @@
-# Lab 5
+# Lab
 
 ## API Developers
 
 ### Publishing APIs to Developer Portal
 
-* Duration: 20 mins
 * Audience: API Owners, Product Managers, Developers, Architects
 
 ## Overview
@@ -19,36 +18,6 @@ You can customize the look and feel of the entire Developer Portal to match your
 
 ### Environment
 
-**URLs:**
-
-Check with your instruction the *GUID* number of your current workshop environment. Replace the actual number on all the URLs where you find **GUID**. 
-
-Example in case of *GUID* = **1234**: 
-
-```bash
-https://master.GUID.openshiftworkshop.com
-```
-
-becomes =>
-
-```bash
-https://master.1234.openshiftworkshop.com
-```
-
-**Credentials:**
-
-Your username is your asigned user number. For example, if you are assigned user number **1**, your username is: 
-
-```bash
-user1
-```
-
-The password to login is always the same:
-
-```bash
-openshift
-```
-
 ## Lab Instructions
 
 ### Step 1: Customizing Developer Portal
@@ -56,14 +25,8 @@ openshift
 1. Open a browser window and navigate to:
 
     ```bash
-    https://userX-admin.apps.GUID.openshiftworkshop.com/
+    https://www.3scale.net/
     ```
-
-    *Remember to replace the GUID with your [environment](#environment) value and your user number.*
-
-1. Accept the self-signed certificate if you haven't.
-
-    ![selfsigned-cert](images/00-selfsigned-cert.png "Self-Signed Cert")
 
 1. Log into 3scale using your designated [user and password](#environment). Click on **Sign In**.
 
@@ -176,8 +139,6 @@ You can add from the Admin Portal under *API Docs* the API definition to generat
 ## Summary
 
 In this lab you discovered how to add a developer facing experience to your APIs. Developers in your organization or outside of it can now register, gain access to API keys and develop sample applications.
-
-You can now proceed to [Lab 6](../lab06/#lab-6)
 
 ## Notes and Further Reading
 
