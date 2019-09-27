@@ -4,7 +4,6 @@
 
 ### Create an OpenAPI Specification using Apicurio Studio
 
-* Duration: 10 mins
 * Audience: API Owner, Product Manager, Developers, Architects
 
 ## Overview
