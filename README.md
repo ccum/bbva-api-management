@@ -33,9 +33,3 @@ API Security and Usage
 * [API Developers](docs/labs/lab05/#lab-5) - Discovering APIs from Developer Portal
 
 
-
-### Installation
-
-If you feel comfortable, you can setup your own environment to host the software required in the labs. Follow the [install instructions](docs/install.md#installation) to install and configure the environment.
-
-
