@@ -108,11 +108,7 @@ You can customize the look and feel of the entire Developer Portal to match your
 
     ![16d-access-portal.png](images/16d-access-portal.png)
 
-1. Open a new *Incognito/Private* browser window to test the Developer Portal login. Navigate to:
-
-    ```bash
-    https://userX.apps.GUID.openshiftworkshop.com/
-    ```
+1. Open a new *Incognito/Private* browser window to test the Developer Portal login
 
 1. Type your portal code to finish the login.
 
