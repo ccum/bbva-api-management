@@ -50,7 +50,7 @@ You can customize the look and feel of the entire Developer Portal to match your
 
     ![12-main-layout.png](images/12-main-layout.png)
 
-1. First look for the **navbar** section of the main HTML. Replace the **{{ provider.name }}** for the shadowman image link:
+1. First look for the **navbar** section of the main HTML. Replace the **{{ provider.name }}** for the bbva image link:
 
     `<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNNHjFZnutWCu2z8f3JsdYcyi-62DBHRpwQAGAAL1tI3-ktlKn" alt="{{ provider.name }}">`
 
