@@ -52,7 +52,7 @@ You can customize the look and feel of the entire Developer Portal to match your
 
 1. First look for the **navbar** section of the main HTML. Replace the **{{ provider.name }}** for the shadowman image link:
 
-    `<img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo.png" alt="{{ provider.name }}">`
+    `<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNNHjFZnutWCu2z8f3JsdYcyi-62DBHRpwQAGAAL1tI3-ktlKn" alt="{{ provider.name }}">`
 
     ![13-custom-logo.png](images/13-custom-logo.png)
 
